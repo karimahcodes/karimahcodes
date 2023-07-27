@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on **My passion project: rootUP**, an app to help black women and QTBIPOC farm apprentices and those from marginalized communities find safer identity-affirming learning spaces and resources. The primary goals are to increase the pool of small farmers that better reflects the diversity of the US, increase food sovereignty, identify existing internal resources in the community for interested learners.
 
   The repository for this project is private while I continue to update the layout, authentication and additional pages, but you can watch a demo here: https://www.loom.com/share/e3d5bd8715e64894a6310d05aafc2e88. If you would like to see the code,  I can make it available on request.
+
+-  for now you can view my portfolio here: https://knichols-portfolio.netlify.app/. Please note that due to IP concerns, some code will not be published, but screenshots of my work have been provided.
   
 - **other projects** I'm tackling are client pages for small women and minority-owned businesses in NYC: a dog-walking company, a Caribbean restaurant, and more to come...
 
@@ -20,14 +22,7 @@
 
 - ⚡Some skilled devs I like to collab with and think you should check out: **https://github.com/Esterjudith, https://github.com/lellis09, https://github.com/keinoc, https://github.com/Chubbi-Stephen, https://github.com/jimmyx27**
 
-
-- I enjoy working on web projects in collaboration with a designer or using a client's desired design and branding.
-<ul>Here are some examples of pages I've built from an existing template, a figma design or pdf mockup and styleguide:
-  <li> <a href="https://github.com/karimahcodes/practice-projects/tree/main/Jewelry%20Store">Jewelry Store </a> - designer: Codelabs Academy </li>
-</ul>
-<p>And here is a live site (no code) I built (without a designer) for a client using the Wix platform: http://clean4you.nyc.</p>
-
-
+-
 
 
 
