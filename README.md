@@ -20,7 +20,7 @@
 
 - 📫 How to reach me (resume requests or rootup inquiries) **karimah@duck.com, rootUP.app@gmail.com**
 
-- ⚡Some skilled devs I like to collab with and think you should check out: **https://github.com/Esterjudith, https://github.com/lellis09, https://github.com/keinoc, https://github.com/Chubbi-Stephen, https://github.com/jimmyx27**
+- ⚡Some skilled devs I like to collab with and think you should check out: **https://github.com/Esterjudith, https://github.com/CodingLady22, https://github.com/lellis09, https://github.com/keinoc, https://github.com/Chubbi-Stephen, https://github.com/jimmyx27**
 
 
 
