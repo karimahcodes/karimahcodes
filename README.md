@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **My passion project: rootUP**, an app to help black women and QTBIPOC farm apprentices and those from marginalized communities find safer identity-affirming learning spaces and resources. The primary goals are to increase the pool of small farmers that better reflects the diversity of the US, increase food sovereignty, identify existing internal resources in the community for interested learners.
 
-  The repository for this project is private while I continue to update the layout, authentication and additional pages, but you can watch a demo here: https://www.loom.com/share/e3d5bd8715e64894a6310d05aafc2e88. If you would like to see the code,  I can make it available on request.
+  The repository for this project is private while I continue to update the layout, authentication and additional pages, but you can **watch an early demo of rootUP here:** https://www.loom.com/share/e3d5bd8715e64894a6310d05aafc2e88. If you would like to see the code,  I can make it available on request.
 
--  for now you can view my portfolio here: https://knichols-portfolio.netlify.app/. Please note that due to IP concerns, some code will not be published, but screenshots of my work have been provided.
+-  for now you can **view my portfolio here:** https://knichols-portfolio.netlify.app/. Please note that due to IP concerns, some code will not be published, but screenshots of my work have been provided.
   
-- **other projects** I'm tackling are client pages for small women and minority-owned businesses in NYC: a dog-walking company, a Caribbean restaurant, and more to come...
+- **other projects** I'm tackling are client pages for small women and minority-owned businesses in NYC: a cleaning company(http://clean4you.nyc), a dog-walking company, a Caribbean restaurant, and more to come...
 
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MySQL, Express, React, Node, Passport, API's, and additional databases**
