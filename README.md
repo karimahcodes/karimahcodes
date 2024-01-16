@@ -9,8 +9,7 @@
 
 -  for now you can **view my portfolio here:** https://knichols-portfolio.netlify.app/. Please note that due to IP concerns, some code will not be published, but screenshots of my work have been provided.
   
-- **other projects** I'm tackling are client pages for small women and minority-owned businesses in NYC: a cleaning company(http://clean4you.nyc), a dog-walking company, a Caribbean restaurant, and more to come...
-
+- **other projects** I'm tackling are client pages for small businesses in NYC: a cleaning company(http://clean4you.nyc), a Caribbean restaurant, and a health careers education company
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, MySQL, Express, React, Node, Passport, API's, and additional databases**
 
