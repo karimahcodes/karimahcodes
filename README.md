@@ -3,26 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimahcodes&label=Profile%20views&color=0e11b4&style=plastic" alt="karimahcodes" /> </p>
 
+
+- **Please Note: My GitHub Activity Log (the green squares) is Inaccurate/Broken and I'm awaiting a ticket response from GitHub.** I code, commit, and push most days, and usually on projects I own (main branch, etc, all the necessary requirements).
+
+
 - 🔭 I’m currently working on **My passion project: rootUP**, an app to help black women and QTBIPOC farm apprentices and those from marginalized communities find safer identity-affirming learning spaces and resources. The primary goals are to increase the pool of small farmers that better reflects the diversity of the US, increase food sovereignty, identify existing internal resources in the community for interested learners.
 
   The repository for this project is private while I continue to update the layout, authentication and additional pages, but you can **watch an early demo of rootUP here:** https://www.loom.com/share/e3d5bd8715e64894a6310d05aafc2e88. If you would like to see the code,  I can make it available on request.
 
 -  for now you can **view my portfolio here:** https://knichols-portfolio.netlify.app/. Please note that due to IP concerns, some code will not be published, but screenshots of my work have been provided.
   
-- **other projects** I'm tackling are client pages for small businesses in NYC: a cleaning company(http://clean4you.nyc), a Caribbean restaurant, and a health careers education company
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, MySQL, Express, React, Node, Passport, API's, and additional databases**
-
-- 👯 I’m looking to collaborate on **anything I can learn from or serving a good cause**
-
-- 🤝 I’m looking for help with **growing my skills, further developing rootUP, joining open-source projects**
 
 - 📫 How to reach me (resume requests or rootup inquiries) **karimah@duck.com, rootUP.app@gmail.com**
 
 - ⚡Some skilled devs I like to collab with and think you should check out: **https://github.com/Esterjudith, https://github.com/CodingLady22, https://github.com/lellis09, https://github.com/keinoc, https://github.com/Chubbi-Stephen, https://github.com/jimmyx27**
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
